@@ -1,0 +1,62 @@
+=== Getting Started ===
+
+1- What is React
+2- Setting Up the Development Environment
+3- Your First React App
+4- Hello World
+5- Custom Configs
+6- Full-stack Architecture
+7- Course Structure
+
+=== ES6 Refresher ===
+
+1 - Introduction
+2- Let vs Var vs Const
+3- Objects
+4- The this Keyword
+5- Binding this
+6- Arrow Functions
+7- Arrow Functions and this
+8- Array.map Method
+9- Object Destructuring
+10- Spread Operator
+11- Classes
+12- Inheritance
+13- Modules
+14- Named and Default Exports
+
+=== Components ===
+
+1- Introduction
+2- Setting Up the Project
+3- Your First React Component
+4- Specifying Children
+5- Embedding Expressions
+6- Setting Attributes
+7- Rendering Classes Dynamically
+8 - Rendering Lists
+9- Conditional Rendering
+10- Handling Events
+11- Binding Event Handlers
+12- Updating the State
+13- What Happens When State Changes
+14- Passing Event Arguments
+15- Setting Up the Vidly Project
+
+
+=== Composing Components ===
+
+1- Introduction
+2- Composing Components
+3- Passing Data to Components
+4- Passing Children
+5 - Debugging React Apps
+6- Props vs State
+7 - Raising and Handling Events
+8- Updating the State
+9- Single Source of Truth
+10- Removing the Local State
+11- Multiple Components in Sync
+12- Lifting the State Up
+13 - Stateless Functional Components
+14- Destructuring Arguments
