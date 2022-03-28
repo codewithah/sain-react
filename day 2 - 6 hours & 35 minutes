@@ -1,0 +1,52 @@
+=== Composing Components ===
+
+15 - Lifecycle Hooks
+16 - Mounting Phase
+17- Updating Phase
+18- Unmounting Phase
+19- Exercise- Decrement Button
+20- Solution - Decrement Button
+21- Exercise- Like Component
+22- Solution- Like Component
+23- Summary
+
+=== Pagination, Filtering, and Sorting ===
+
+1- Introduction
+2- Exercise- Pagination Component
+4- Pagination- Displaying Pages
+5- Pagination- Handling Page Changes
+6- Pagination- Paginating Data
+7- Pagination- Type Checking with PropTypes
+8- Exercise- ListGroup Component
+9- Filtering- Component Interface
+10- Filtering- Displaying Items
+11- Filtering- Default Props
+12- Filtering- Handling Selection
+13- Filtering- Implementing Filtering
+14- Filtering- Adding All Genres
+15- Sorting- Extracting MoviesTable
+16- Sorting- Raising the Sort Event
+17- Sorting- Implementing Sorting
+18- Sorting- Moving Responsibility
+19- Sorting- Extracting TableHeader
+20- Sorting- Extracting TableBody
+21- Sorting- Rendering Cell Content
+22- Sorting- Unique Keys - Final
+23- Sorting- Adding the Sort Icon
+24- Sorting- Extracting Table
+25- Sorting- Extracting a Method
+26- Destructuring Arguments
+27- Summary
+
+=== Routing ===
+
+1- Introduction
+2- Setup
+3- Adding Routing
+4- Switch
+5- Link
+6- Route Props
+7- Passing Props
+8- Route Parameters
+9- Optional Parameters
