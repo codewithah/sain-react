@@ -1,0 +1,47 @@
+=== Routing ===
+
+10- Query String Parameters
+11- Redirects
+12- Programmatic Navigation
+13- Nested Routing
+15- Adding React Router
+16- Adding Routes
+17- Adding the NavBar
+18- Linking to the MovieForm
+19 - Summary
+
+=== Forms ===
+
+1- Introduction
+2- Building a Bootstrap Form
+3- Handling Form Submission
+4- Refs
+5- Controlled Elements
+6- Handling Multiple Inputs
+7- Common Errors
+8- Extracting a Reusable Input
+9- Validation
+10- A Basic Validation Implementation
+11- Displaying Validation Errors
+12- Validation on Change
+13- Joi
+14- Validating a Form Using Joi
+15- Validating a Field Using Joi
+16- Disabling the Submit Button
+17- Code Review
+18- Extracting a Reusable Form
+19- Extracting Helper Rendering Methods
+20- Register Form
+
+=== Calling Backend Services ===
+
+1- Introduction
+2- JSON Placeholder
+3- Http Clients
+4- Getting Data
+5- Creating Data
+6- Lifecycle of a Request
+7- Updating Data
+8- Deleting Data
+9- Optimistic vs Pessimistic Updates
+10- Expected vs Unexpected Errors
