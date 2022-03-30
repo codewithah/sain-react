@@ -1,0 +1,45 @@
+=== Calling Backend Services ===
+
+11- Handling Unexpected Errors Globally
+12- Extracting a Reusable Http Service
+13- Extracting a Config Module
+14- Displaying Toast Notifications
+15- Logging Errors
+16- Extracting a Logger Service
+17- Vidly Backend
+19- Installing MongoDB on Windows
+20- Setting Up the Node Backend
+21- Disabling Authentication
+23- Ading Http and Log Services
+24- Replacing FakeGenreService
+25- Replacing FakeMovieService
+26- Extracting a Config File
+28- Populating the Form
+29- Refactoring
+30- Saving the Movie
+31- Refactoring
+
+=== Authentication and Authorization ===
+
+1 - Introduction
+2- Registering a New User
+3- Submitting the Registration Form
+4- Handling Registration Errors
+5- Logging in a User
+6- Submitting the Login Form
+7- Handling Login Errors
+8- Storing the JWT
+9- Logging in the User upon Registration
+10- JSON Web Tokens (JWT)
+11- Getting the Current User
+12- Displaying the Current User on NavBar
+13- Logging out a User
+14- Refactoring
+15- Calling Protected API Endpoints
+16- Fixing Bi-directional Dependencies
+17- Authorization
+18- Showing or Hiding Elements based on the User
+19- Protecting Routes
+20- Extracting ProtectedRoute
+21- Redirecting after Login
+23- Hiding the Delete Column
